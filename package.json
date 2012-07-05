@@ -1,0 +1,18 @@
+{
+    "name": "express-cdn-cloudfiles"
+  , "description": "Add-on module for express-cdn to provide Rackspace CloudFiles integration with built-in Akamai CDN delivery."
+  , "version": "0.0.1"
+  , "author": "Nick Baugh <niftylettuce@gmail.com>"
+  , "contributors": [
+      { "name": "Nick Baugh", "email": "niftylettuce@gmail.com" }
+    ]
+  , "keywords": [ "express-cdn-cloudfiles", "rackspace", "cdn", "cloud", "rackspace", "cloudfiles" ]
+  , "homepage": "https://github.com/niftylettuce/express-cdn-cloudfiles"
+  , "repository": {
+        "type": "git"
+      , "url": "https://github.com/niftylettuce/express-cdn-cloudfiles.git"
+    }
+  , "engines": {
+      "node": ">= 0.6.0"
+    }
+}
