@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/niftylettuce/express-cdn-cloudfiles.png)](http://travis-ci.org/niftylettuce/express-cdn-cloudfiles)
 
 # express-cdn-cloudfiles <sup>0.0.1</sup>
 
